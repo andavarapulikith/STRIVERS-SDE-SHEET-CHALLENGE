@@ -3,6 +3,7 @@
         "deque": "cpp",
         "string": "cpp",
         "vector": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "array": "cpp"
     }
 }
